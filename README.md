@@ -1,6 +1,9 @@
 # 一个简单的 MarkDown 编辑器
 
 ## 涉及技术
+
+脚手架使用 `create-react-app`
+
 - react
 - marked    => 用于解析 markedown 语法
 - bootstrap     => 使用样式 
