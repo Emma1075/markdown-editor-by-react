@@ -1,5 +1,7 @@
 # 一个简单的 MarkDown 编辑器
 
+在线演示效果：https://codepen.io/Emma1075/full/OxaQeo
+
 ## 涉及技术
 
 脚手架使用 `create-react-app`
